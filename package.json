@@ -14,5 +14,8 @@
     "others"
   ],
   "author": "albert",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.4.1"
+  }
 }
